@@ -1,5 +1,5 @@
 # EcommerceSite
 #HTML
 #CSS
-#Js
+#Js Simple Site
 # LiveLink https://sohel-developer.github.io/EcommerceSite/index.html
